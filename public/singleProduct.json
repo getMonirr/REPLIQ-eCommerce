@@ -1,0 +1,12 @@
+{
+    "product_id": "SKU24680",
+    "name": "Wireless Earbuds",
+    "description": "Noise-canceling wireless earbuds with long battery life.",
+    "price": 79.99,
+    "category": "Electronics",
+    "brand": "AudioTech",
+    "availability": true,
+    "stock": 100,
+    "rating": 4.8,
+    "image_url": "https://i.ibb.co/NtKJSD7/vr.jpg"
+}

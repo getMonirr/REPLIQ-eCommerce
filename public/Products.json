@@ -1,0 +1,98 @@
+[
+    {
+        "product_id": "SKU12345",
+        "name": "Smartphone",
+        "description": "High-performance smartphone with 6.4-inch display.",
+        "price": 399.99,
+        "category": "Electronics",
+        "brand": "XYZ Electronics",
+        "availability": true,
+        "stock": 50,
+        "rating": 4.5,
+        "image_url": "https://i.ibb.co/NtKJSD7/vr.jpg"
+    },
+    {
+        "product_id": "SKU67890",
+        "name": "Laptop",
+        "description": "Lightweight and powerful laptop with Intel i7 processor.",
+        "price": 899.99,
+        "category": "Electronics",
+        "brand": "ABC Computers",
+        "availability": true,
+        "stock": 20,
+        "rating": 4.2,
+        "image_url": "https://i.ibb.co/NtKJSD7/vr.jpg"
+    },
+    {
+        "product_id": "SKU24680",
+        "name": "Wireless Earbuds",
+        "description": "Noise-canceling wireless earbuds with long battery life.",
+        "price": 79.99,
+        "category": "Electronics",
+        "brand": "AudioTech",
+        "availability": true,
+        "stock": 100,
+        "rating": 4.8,
+        "image_url": "https://i.ibb.co/NtKJSD7/vr.jpg"
+    },
+    {
+        "product_id": "SKU13579",
+        "name": "T-shirt",
+        "description": "Premium cotton T-shirt with a stylish design.",
+        "price": 24.99,
+        "category": "Fashion",
+        "brand": "FashionGuru",
+        "availability": true,
+        "stock": 150,
+        "rating": 4.0,
+        "image_url": "https://i.ibb.co/NtKJSD7/vr.jpg"
+    },
+    {
+        "product_id": "SKU97531",
+        "name": "Running Shoes",
+        "description": "Comfortable running shoes with excellent grip and support.",
+        "price": 89.99,
+        "category": "Sporting Goods",
+        "brand": "RunnersWorld",
+        "availability": true,
+        "stock": 80,
+        "rating": 4.7,
+        "image_url": "https://i.ibb.co/NtKJSD7/vr.jpg"
+    },
+    {
+        "product_id": "SKU45678",
+        "name": "Coffee Maker",
+        "description": "Programmable coffee maker for your daily caffeine fix.",
+        "price": 49.99,
+        "category": "Home & Kitchen",
+        "brand": "KitchenMaster",
+        "availability": true,
+        "stock": 30,
+        "rating": 4.3,
+        "image_url": "https://i.ibb.co/NtKJSD7/vr.jpg"
+    },
+    {
+        "product_id": "SKU24680",
+        "name": "Backpack",
+        "description": "Durable and spacious backpack for all your travel needs.",
+        "price": 39.99,
+        "category": "Travel & Accessories",
+        "brand": "TravelPro",
+        "availability": true,
+        "stock": 60,
+        "rating": 4.6,
+        "image_url": "https://i.ibb.co/NtKJSD7/vr.jpg"
+    },
+    {
+        "product_id": "SKU86420",
+        "name": "Wireless Gaming Mouse",
+        "description": "High-precision wireless gaming mouse with customizable buttons.",
+        "price": 69.99,
+        "category": "Gaming",
+        "brand": "GameMaster",
+        "availability": true,
+        "stock": 40,
+        "rating": 4.9,
+        "image_url": "https://i.ibb.co/NtKJSD7/vr.jpg"
+    }
+]
